@@ -1,0 +1,33 @@
+objekte:
+OFM #
+Andere Läufer #
+Halle #
+Trennwände #
+Rennbahn #
+Zielband #
+Gewicht(e) #
+Podest #
+Schlagautomat #
+kaputter Schlagautomat #
+Loch für Wand #
+Loch für Decke #
+Messlatte #
+
+Post:
+Stempel
+Formular
+Soundeffekte
+evtl. Effekte
+
+
+Animationen:
+Sidestepping
+Startposition für Rennen
+Rennen
+Reissen des Zielbands
+Biegende Gewichtestange
+Faust auf Automat zufliegen
+Fliegender Schlagautomat
+Bröseln der Wand
+OFM in Decke stecken
+evtl. Bröseln d. Wand und Decke (Partikeleffekte)
