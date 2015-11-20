@@ -1,16 +1,16 @@
 objekte:
 OFM #
 Andere Läufer #
-Halle #
+Halle ##
 Trennwände #
-Rennbahn #
+Rennbahn ##
 Zielband #
 Gewicht(e) #
-Podest #
+Podest ##
 Schlagautomat #
 kaputter Schlagautomat #
-Loch für Wand #
-Loch für Decke #
+Loch für Wand ##
+Loch für Decke ##
 Messlatte #
 
 Post:
