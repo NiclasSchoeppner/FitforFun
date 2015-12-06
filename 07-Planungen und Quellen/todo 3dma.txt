@@ -1,33 +1,32 @@
 objekte:
-OFM #
-Andere Läufer #
-Halle ##
-Trennwände #
-Rennbahn ##
-Zielband #
-Gewicht(e) #
-Podest ##
-Schlagautomat #
-kaputter Schlagautomat #
-Loch für Wand ##
-Loch für Decke ##
-Messlatte #
+OFM #			X
+Andere Läufer #		X
+Halle ##		X
+Trennwände #		X
+Rennbahn ##		X
+Zielband #		X
+Gewicht(e) #		X
+Podest ##		X
+Schlagautomat #		X
+kaputter Schlagautomat #X	
+Loch für Wand ##	X
+Loch für Decke ##	X
+Messlatte #		X
 
 Post:
-Stempel
+Stempel	
 Formular
 Soundeffekte
 evtl. Effekte
 
 
 Animationen:
-Sidestepping
-Startposition für Rennen
-Rennen
-Reissen des Zielbands
-Biegende Gewichtestange
-Faust auf Automat zufliegen
-Fliegender Schlagautomat
-Bröseln der Wand
-OFM in Decke stecken
-evtl. Bröseln d. Wand und Decke (Partikeleffekte)
+Sidestepping						X
+Startposition für Rennen				X
+Rennen							X
+Reissen des Zielbands					X
+Biegende Gewichtestange					X
+Faust auf Automat zufliegen				X
+Fliegender Schlagautomat				X
+OFM in Decke stecken					X
+
